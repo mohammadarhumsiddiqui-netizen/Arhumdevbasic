@@ -1,0 +1,57 @@
+a {
+  margin: 0%;
+  padding: 0%;
+}
+td {
+  height: 15px;
+  width: 50px;
+  text-align: center;
+}
+table {
+  margin: auto;
+}
+.alkali-metal {
+  background: #ff6666;
+}
+
+.alkaline-earth {
+  background: #ffcc66;
+}
+
+.transition-metal {
+  background: #ffd966;
+}
+
+.post-transition {
+  background: #cccccc;
+}
+
+.metalloid {
+  background: #99ff99;
+}
+
+.nonmetal {
+  background: #66ffcc;
+}
+
+.halogen {
+  background: #66ccff;
+}
+
+.noble-gas {
+  background: #cc99ff;
+}
+
+.lanthanide {
+  background: #ff99cc;
+}
+
+.actinide {
+  background: #ff6699;
+}
+.Head {
+  background-color: yellow;
+}
+.back {
+  background-color: black;
+}
