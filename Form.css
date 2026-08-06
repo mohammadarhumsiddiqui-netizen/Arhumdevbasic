@@ -1,0 +1,110 @@
+a {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(148, 183, 248);
+}
+.tittle {
+  background-color: rgb(45, 45, 114);
+  height: 30px;
+  font-size: 25px;
+  margin-bottom: 15px;
+}
+.name {
+  margin-left: 55px;
+  margin-right: 55px;
+}
+.first {
+  width: 87%;
+}
+.radio {
+  margin-left: 20px;
+}
+.Date {
+  margin-left: 55px;
+}
+.head {
+  text-align: center;
+  font-size: xx-large;
+}
+.rough {
+  margin-left: 55px;
+}
+.horizontal {
+  width: 91%;
+}
+.container {
+  display: flex;
+}
+.text {
+  margin-left: 55px;
+}
+.numbers {
+  width: 60%;
+}
+.email {
+  width: 60%;
+}
+.bluf {
+  margin-left: 55px;
+}
+.fluf {
+  margin-left: 20px;
+}
+.naruto {
+  margin-left: 55px;
+}
+.sasuke {
+  margin-left: 20px;
+}
+.kakashi {
+  margin-left: 55px;
+}
+.nont {
+  width: 93%;
+  text-align: center;
+  margin-left: 55px;
+  margin-right: 55px;
+}
+.paragraph {
+  margin-left: 55px;
+}
+.table {
+  margin-left: 55px;
+  margin-right: 55px;
+}
+.height {
+  height: 30px;
+  width: 15%;
+}
+.premium {
+  margin-left: 20px;
+}
+.Unit {
+  margin-left: 55px;
+}
+.radio2 {
+  margin-left: 55px;
+}
+.margin {
+  margin-left: 55px;
+  margin-right: 55px;
+}
+.cash {
+  width: 88%;
+}
+.planned {
+  width: 87%;
+}
+.terms {
+  margin-left: 55px;
+  color: blue;
+}
+.Signature {
+  margin-left: 25px;
+}
+.data {
+  margin-left: 498px;
+}
